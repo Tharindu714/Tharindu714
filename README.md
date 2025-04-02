@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharindu714&show_icons=true&theme=algolia&count_private=true&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharindu714&show_icons=true&theme=algolia&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
 </p>
 
 ---
