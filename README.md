@@ -3,7 +3,7 @@
 ![Github Banner](https://github.com/user-attachments/assets/b4f8f9ab-f29c-456e-940e-908c5ee9c5e0)
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=55&center=true&vCenter=true&height=60&width=900&lines=I'm+Tharindu+Chanaka+;Welcome+to+My+GitHub+Profile!&color=FF5733,FF8D33,FFC300,DAF7A6,33FF57,33FFBD,338CFF,8D33FF,FF33A8" alt="Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=55&center=true&vCenter=true&height=60&width=900&lines=I'm+Tharindu+Chanaka+;Welcome+to+My+GitHub+Profile!&color=1bf302" alt="Title"/>
 </div>
 
 ---
@@ -23,39 +23,60 @@
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages,Frameworks, Tools & Platforms:
-<div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" /> 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />
-   <img src="https://assets.blackslate.io/posts/01/dD5sCoYFg6pRt8u.png" alt="nextjs" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="50" height="50" />
+
+ 💻 **UI/UX Technologies & Frameworks**
+  <div align="Left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />
+<img src="https://img.icons8.com/fluent/200/nextjs.png" alt="next.js" width="50" height="50" />
+</div>
+<br>
+
+🛠 **Backend Technologies & Frameworks**
+<div align="Left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" /> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="50" height="50" />
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50" height="50" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" alt="Scala" width="50" height="50" />
+ </div>
+  <br>
+  
+  ⛃ **Database Configuration Technologies**
+ <div align="Left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" /> 
+  <img src="https://explore.robomotion.io/images/applications/sqlite.png" alt="SQLite" width="50" height="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50" />
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="Google Cloud" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
+    </div>
+  <br>
+  
+ 🧊 **IDEs & other Familier Platforms**
+ <div align="Left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/768px-Android_Studio_Logo_%282023%29.svg.png" alt="Android Studio" width="50" height="50" />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="Google Cloud" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg" alt="arduino" width="50" height="50" />
-  
-  
+  <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-qizpvp2b.png" alt="IntellJ" width="50" height="50" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50" />
+  <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" alt="GitBash" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
 </div>
 
 ---
