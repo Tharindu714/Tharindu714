@@ -102,7 +102,10 @@
     <img align="center" alt="Tharindu714 | GitHub" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
+<div align="center">
 
+[![Sponsor Tharindu714](https://img.shields.io/badge/Sponsor--me-%F0%9F%92%96?style=for-the-badge&logo=github-sponsors&color=white)](https://github.com/sponsors/Tharindu714)
+</div>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2025 Tharindu Chanaka
