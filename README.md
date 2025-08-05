@@ -73,7 +73,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="Google Cloud" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg" alt="arduino" width="50" height="50" />
-  <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-qizpvp2b.png" alt="IntellJ" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntellJ" width="50" height="50" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50" />
   <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" alt="GitBash" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
