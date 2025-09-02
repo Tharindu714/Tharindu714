@@ -11,7 +11,7 @@
 ## 🚀 About Me
 ### Hi 👋, I'm Tharindu Chanaka
 
-💡 *I am a passionate Full Stack Developer with expertise in PHP, Java, C++, JavaScript, Android tech, SQL & NoSQL*
+💡 *I am a passionate Full Stack Developer with experinced in PHP, Java, C++, JavaScript, Android tech, SQL & NoSQL*
 
 - ☕ Mastering Java – one bug fix at a time.
 - 📖 Learn Maniac - Couldn't stop learning & Researching
