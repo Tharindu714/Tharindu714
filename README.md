@@ -66,6 +66,7 @@
   
  🧊 **IDEs & other Familier Platforms**
  <div align="Left">
+  <img src="https://upload.wikimedia.org/wikipedia/ru/a/a3/Unity_Logo.png" alt="Unity" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/768px-Android_Studio_Logo_%282023%29.svg.png" alt="Android Studio" width="50" height="50" />
@@ -77,7 +78,6 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50" />
   <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" alt="GitBash" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/250px-Unity_2021.svg.png" alt="Unity" width="50" height="50" />
   
 </div>
 
