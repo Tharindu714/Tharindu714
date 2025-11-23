@@ -77,7 +77,7 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50" />
   <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" alt="GitBash" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
-  <img src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png" alt="Unity" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/250px-Unity_2021.svg.png" alt="Unity" width="50" height="50" />
   
 </div>
 
